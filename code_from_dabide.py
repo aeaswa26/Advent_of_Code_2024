@@ -16,7 +16,7 @@
    "outputs": [],
    "source": [
     "#get data\n",
-    "data = requests.get(\"https://raw.githubusercontent.com/00Dabide/Advent_of_Code_2024/refs/heads/main/Day1/Day1Text.txt\").text.split(\"\\n\")"
+    "data = requests.get(\"https://raw.githubusercontent.com/aeaswa26/Advent_of_Code_2024/blob/main/day_1_input.txt\").text.split(\"\\n\")"
    ]
   },
   {
